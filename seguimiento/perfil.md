@@ -12,8 +12,8 @@
 
 ## Objetivo general
 - Objetivo principal: perder peso y mantener constancia en el entrenamiento
-- Peso objetivo (kg):
-- Fecha objetivo:
+- Peso objetivo (kg): 72
+- Fecha objetivo: 2027-01-24 (6 meses desde el inicio del seguimiento, 2026-07-24)
 
 ## Entrenamiento
 - Experiencia previa:
