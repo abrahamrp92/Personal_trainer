@@ -25,20 +25,46 @@ turno suma calorías que no se "sienten" como una comida. Si notas que el
 peso no baja al ritmo esperado, antes de bajar más las calorías de las
 comidas, revisa cuánto estás probando/picando mientras cocinas.
 
-## Ejemplo de día (turno partido)
+## Menú semanal (semana del 27 de julio de 2026)
 
-**Antes de las 11:00 — ~800 kcal**
-- 3 huevos revueltos + 1 rebanada de pan integral grande + aguacate
-- Pieza de fruta
+Cada día ronda las 2300 kcal / 180g proteína repartidas en 3 franjas según
+tu horario real. Cambia libremente un alimento por otro similar (misma
+categoría: proteína por proteína, carbohidrato por carbohidrato).
 
-**17:00-20:00 — ~920 kcal**
-- Pechuga de pollo o pescado (150-180g) a la plancha
-- Arroz o patata (200-250g cocido)
-- Verdura al gusto + aceite de oliva (1-2 cucharadas)
+### Lunes (turno solo mañana, libre por la tarde)
+- **Antes de las 11:00 (~700 kcal):** Tortilla de 3 huevos + 40g pan integral + pieza de fruta
+- **~17:00, al salir (~900 kcal):** Pollo a la plancha (180g) + arroz (200g cocido) + verdura + AOVE
+- **Cena ~21:00 (~700 kcal):** Salmón (150g) + patata asada (200g) + ensalada + AOVE
 
-**Tras salir (~01:00) — ~575 kcal**
-- Yogur griego natural + puñado de frutos secos, o
-- Tortilla de 2-3 huevos con verdura, poca cantidad de pan
+### Martes (día libre)
+- **Desayuno ~8:00 (~650 kcal):** Avena (80g) con leche + plátano + huevo cocido
+- **Comida ~14:00 (~950 kcal):** Ternera magra (180g) + pasta integral (200g cocida) + verduras salteadas
+- **Cena ~21:00 (~700 kcal):** Merluza (200g) + puré de patata (200g) + ensalada + AOVE
+
+### Miércoles (turno partido)
+- **Antes de las 11:00 (~800 kcal):** 3 huevos revueltos + pan integral + aguacate + fruta
+- **17:00-20:00 (~920 kcal):** Pechuga de pavo (180g) + arroz (220g cocido) + verdura + AOVE
+- **Cena ~01:00 (~575 kcal):** Yogur griego natural + puñado de frutos secos + fruta
+
+### Jueves (turno partido)
+- **Antes de las 11:00 (~800 kcal):** Bowl de avena con fruta y nueces + huevo cocido
+- **17:00-20:00 (~920 kcal):** Pescado blanco (200g) + patata (220g) + verdura + AOVE
+- **Cena ~01:00 (~575 kcal):** Tortilla de 2-3 huevos con verdura + poco pan
+
+### Viernes (turno partido)
+- **Antes de las 11:00 (~800 kcal):** Tostadas integrales con atún y tomate + fruta
+- **17:00-20:00 (~920 kcal):** Pollo al horno (180g) + boniato (200g) + ensalada + AOVE
+- **Cena ~01:00 (~575 kcal):** Queso fresco batido/cottage + frutos secos
+
+### Sábado (turno partido)
+- **Antes de las 11:00 (~800 kcal):** Yogur griego + avena/granola + fruta + huevo
+- **17:00-20:00 (~920 kcal):** Ternera o cerdo magro (180g) + arroz (200g) + verduras + AOVE
+- **Cena ~01:00 (~575 kcal):** Salmón ahumado + pan integral pequeño + tomate
+
+### Domingo (turno partido)
+- **Antes de las 11:00 (~800 kcal):** Huevos revueltos + jamón cocido + pan integral + fruta
+- **17:00-20:00 (~920 kcal):** Merluza o pescado blanco (200g) + patata (220g) + verdura + AOVE
+- **Cena ~01:00 (~575 kcal):** Yogur griego + frutos secos, o tortilla francesa ligera
 
 Ajusta cantidades/alimentos a lo que tengas más a mano en la cocina del
 trabajo o en casa — lo importante es acercarte a las calorías y, sobre todo,
