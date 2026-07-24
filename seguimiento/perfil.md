@@ -16,9 +16,9 @@
 - Fecha objetivo: 2027-01-24 (6 meses desde el inicio del seguimiento, 2026-07-24)
 
 ## Entrenamiento
-- Experiencia previa:
-- Días disponibles por semana:
-- Material/gimnasio disponible:
+- Experiencia previa: intermedio
+- Días disponibles por semana: 4
+- Material/gimnasio disponible: entrena en casa (pendiente detallar qué material tiene: mancuernas, bandas, barra de dominadas, etc.)
 - Lesiones o limitaciones actuales:
 
 ## Nutrición
