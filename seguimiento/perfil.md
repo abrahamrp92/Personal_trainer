@@ -4,10 +4,10 @@
 > subagentes leen este archivo como fuente de verdad sobre quién eres.
 
 ## Datos básicos
-- Edad:
-- Sexo:
-- Altura (cm):
-- Peso actual (kg):
+- Edad: 33
+- Sexo: hombre
+- Altura (cm): 170
+- Peso actual (kg): 99.5
 - Nivel de actividad diaria (sedentario / ligero / moderado / alto):
 
 ## Objetivo general
