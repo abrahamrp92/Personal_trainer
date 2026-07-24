@@ -8,7 +8,7 @@
 - Sexo: hombre
 - Altura (cm): 170
 - Peso actual (kg): 99.5
-- Nivel de actividad diaria (sedentario / ligero / moderado / alto):
+- Nivel de actividad diaria (sedentario / ligero / moderado / alto): moderado (trabaja como cocinero, jornadas de pie/en movimiento)
 
 ## Objetivo general
 - Objetivo principal: perder peso y mantener constancia en el entrenamiento
@@ -28,4 +28,7 @@
 - Horarios de comida habituales:
 
 ## Notas adicionales
--
+- Profesión: cocinero. Relevante para nutrición (acceso constante a comida,
+  posible picoteo/degustación durante el trabajo, horarios de comida
+  irregulares) y para el diseño de la rutina (turnos de pie, fatiga por
+  jornada laboral física).
