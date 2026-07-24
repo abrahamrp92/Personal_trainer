@@ -25,10 +25,11 @@
   gradual y ejercicios de bajo impacto al inicio.
 
 ## Nutrición
-- Alergias / intolerancias:
-- Preferencias (vegetariano, vegano, etc.):
-- Alimentos que no le gustan:
-- Horarios de comida habituales:
+- Alergias / intolerancias: ninguna
+- Preferencias (vegetariano, vegano, etc.): come de todo, sin restricciones
+- Alimentos que no le gustan: ninguno indicado
+- Horarios de comida habituales: irregulares por turnos de cocinero
+  (pendiente de concretar franjas exactas si se quiere afinar más)
 
 ## Notas adicionales
 - Profesión: cocinero. Relevante para nutrición (acceso constante a comida,
