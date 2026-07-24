@@ -18,8 +18,11 @@
 ## Entrenamiento
 - Experiencia previa: intermedio
 - Días disponibles por semana: 4
-- Material/gimnasio disponible: entrena en casa (pendiente detallar qué material tiene: mancuernas, bandas, barra de dominadas, etc.)
-- Lesiones o limitaciones actuales:
+- Material/gimnasio disponible: entrena en casa, sin material (solo peso corporal / calistenia)
+- Lesiones o limitaciones actuales: sin lesiones diagnosticadas. Dolor de
+  rodilla (vigilar impacto/carga axial, valorar con fisioterapeuta) y mucha
+  fatiga asociada al exceso de peso actual (99.5 kg) — priorizar progresión
+  gradual y ejercicios de bajo impacto al inicio.
 
 ## Nutrición
 - Alergias / intolerancias:
