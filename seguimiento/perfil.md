@@ -19,6 +19,9 @@
 - Experiencia previa: intermedio
 - Días disponibles por semana: 4
 - Material/gimnasio disponible: entrena en casa, sin material (solo peso corporal / calistenia)
+- Horario disponible para entrenar: mejor por la mañana antes de las 11:00
+  (miércoles a domingo) o en el hueco 17:00-20:00; martes libre todo el día
+  y lunes libre por la tarde/noche.
 - Lesiones o limitaciones actuales: sin lesiones diagnosticadas. Dolor de
   rodilla (vigilar impacto/carga axial, valorar con fisioterapeuta) y mucha
   fatiga asociada al exceso de peso actual (99.5 kg) — priorizar progresión
@@ -28,8 +31,11 @@
 - Alergias / intolerancias: ninguna
 - Preferencias (vegetariano, vegano, etc.): come de todo, sin restricciones
 - Alimentos que no le gustan: ninguno indicado
-- Horarios de comida habituales: irregulares por turnos de cocinero
-  (pendiente de concretar franjas exactas si se quiere afinar más)
+- Horarios de comida habituales: turno partido de miércoles a domingo
+  (11:00-17:00 y 20:00-01:00), lunes solo turno de mañana, descansa lunes
+  tarde y martes completo. Come/cena muy tarde (cerca de la 1 AM) los días
+  de turno partido: encajar comidas principales antes de las 11:00, en el
+  hueco 17:00-20:00, y una cena ligera/tardía al salir de trabajar.
 
 ## Notas adicionales
 - Profesión: cocinero. Relevante para nutrición (acceso constante a comida,
