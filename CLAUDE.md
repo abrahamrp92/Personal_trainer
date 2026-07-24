@@ -41,6 +41,8 @@ Reglas de orquestación:
 
 - `perfil.md` — datos personales, objetivos, restricciones/lesiones, preferencias.
 - `objetivos.md` — objetivos activos (peso objetivo, fecha, calorías/macros objetivo).
+- `plan_entrenamiento.md` — rutina semanal vigente (días, ejercicios, series/reps).
+- `plan_nutricion.md` — reparto de comidas y ejemplo de menú vigente.
 - `peso.csv` — histórico de peso corporal.
 - `medidas.csv` — histórico de medidas corporales (cintura, cadera, etc.).
 - `entrenamientos/` — un archivo por sesión (`YYYY-MM-DD.md`) usando `plantilla.md`.
