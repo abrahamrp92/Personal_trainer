@@ -18,7 +18,7 @@
 ## Entrenamiento
 - Experiencia previa: intermedio
 - Días disponibles por semana: 4
-- Material/gimnasio disponible: entrena en casa, sin material (solo peso corporal / calistenia)
+- Material/gimnasio disponible: entrena en gimnasio (acceso a máquinas guiadas, poleas, mancuernas, barra y cardio)
 - Horario disponible para entrenar: mejor por la mañana antes de las 11:00
   (miércoles a domingo) o en el hueco 17:00-20:00; martes libre todo el día
   y lunes libre por la tarde/noche.
